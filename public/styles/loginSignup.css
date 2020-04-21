@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://pbs.twimg.com/media/EKvPJUXU8AAbRko.jpg");
+    position: fixed;
+    background-size: cover;
+    background-repeat: repeat;
+  }
+  .row {
+    background-color: lightsalmon;
+    font-family: 'Orbitron', sans-serif;
+    background-color: lightsalmon;
+    box-shadow: 5px 10px rgb(192, 120, 96);
+    border-radius: 25px;
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 50%;
+  }
