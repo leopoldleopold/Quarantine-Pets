@@ -1,6 +1,8 @@
 # Quarantine Pets
 A group developed Full Stack application using the **MVC** design pattern.  
 
+https://quarantine-pets.herokuapp.com/
+
 In our current hard times of Quarantine, people need a friend to interact with to escape.   Welcome to **Quarantine Pets!**  
 A virtual pet to play with, love, and take care of in the way of the original *Tamagotchi*. 
 
